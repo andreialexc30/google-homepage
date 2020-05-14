@@ -1,0 +1,1 @@
+This is a mini project suggested by The Odin Project to test what I've learned so far. It contains a basic copy of the google homepage using HTML and CSS.
