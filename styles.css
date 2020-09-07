@@ -133,7 +133,7 @@ button:hover {
 
 footer {
     width: 100%;
-    height: 35px;
+    height: 45px;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -153,4 +153,44 @@ footer nav a {
     margin: 1rem;
     font-size: 14px;
     color: rgba(0,0,0,0.6);
+}
+
+.offered-in{
+    text-align: center;
+    font-size: 14px;
+}
+
+.offered-in > a{
+    padding: 0 3px;
+}
+
+#keyboard-icon{
+    top: 12px;
+    position: relative;
+    left: -20px;
+}
+
+.footer-right{
+    position: relative;
+    left: 580px;
+}
+
+.footer-right > a{
+    padding-left: 27px;
+    font-size: 14px;
+    
+}
+
+.footer-left > a{
+    padding-left: 27px;
+    font-size: 14px;
+}
+
+footer > div > a{
+    color:#5f6368;
+    margin: 0;
+}
+
+footer > div > a:hover{
+    text-decoration: underline;
 }
