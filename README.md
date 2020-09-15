@@ -1,1 +1,1 @@
-This is a mini project suggested by The Odin Project to test what I've learned so far. It contains a basic copy of the google homepage using HTML and CSS.
+This is a mini project suggested by The Odin Project to test what I've learned so far. It contains a basic copy of the google homepage using HTML and CSS. Live version available at https://andreialexc30.github.io/google-homepage/
